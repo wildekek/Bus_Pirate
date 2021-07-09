@@ -58,7 +58,7 @@ The Bus Pirate is used through a simple terminal interface, but these applicatio
   * USA: <https://www.adafruit.com/products/237?&main_page=product_info&cPath=8&products_id=237>
   * USA: <http://www.epictinker.com/Bus-Pirate-v3-assembled-p/thm180c4m.htm>
   * Germany: <http://www.watterott.com/en/Bus-Pirate>
-  * Europe: <http://evola.fr/en/dangerous-prototypes/164-bus-pirate-v3-6.html>
+  * Europe: <https://www.robotshop.com/uk/bus-pirate-v36a.html>
   * USA: <https://anibit.com/product/ptt07001>
 
 [OpenOCD]: http://openocd.org
